@@ -1,4 +1,0 @@
-1JDK指的是Java Development Kit，它是一个开发Java应用程序所需的软件开发工具包。JDK包括Java编译器、Java虚拟机、Java类库等必要组件，以及用于开发、调试和运行Java应用程序的其他工具。使用JDK可以帮助开发人员编写、测试和部署Java应用程序，以及运行Java应用程序所需的Java Runtime Environment（JRE）。JDK是由Oracle公司提供的，可以在其官方网站上免费下载和使用
-JVM 是 Java Virtual Machine 的缩写，它是一个虚构出来的计算机，一种规范。通过在实际的计算机上仿真模拟各类计算机功能实现
-2JAVA-HOME CLASSPATH 和PTAH的两个路径 可以直接在根目录调用 而不是只能在Java所在目录调用 }
-3 我先建立了一个txt来存放代码，然后我把后缀改为java用来进行编译 编译出的后缀class文件用来在命令行执行
